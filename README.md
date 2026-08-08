@@ -35,27 +35,26 @@ Termux Ethical Hacking Toolkit হলো Termux-এর জন্য তৈরি
 ধাপ ১: Termux সেটআপ
 
 ```bash
-# Termux খুলে নিচের কমান্ড দিন (স্টোরেজ অ্যাক্সেসের জন্য)
 termux-setup-storage
 ```
 
-ধাপ ২: রিপোজিটরি ক্লোন করুন
+ধাপ ২:
 
 ```bash
 git clone https://github.com/device2331-beep/mehidi_tools.git
 cd mehidi_tools
 ```
 
-ধাপ ৩: স্ক্রিপ্টকে এক্সিকিউটেবল বানান
+ধাপ ৩:
 
 ```bash
-chmod +x hack-toolkit.sh
+chmod +x mehidi_tools.sh
 ```
 
 ধাপ ৪: স্ক্রিপ্ট রান করুন
 
 ```bash
-./hack-toolkit.sh
+./mehidi_tools.sh
 ```
 
 প্রথমবার রান করলে:
