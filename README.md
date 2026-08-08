@@ -1,8 +1,6 @@
 🛡️ Termux ইথিক্যাল হ্যাকিং টুলকিট (All-in-One)
 
-https://img.shields.io/badge/Termux-All--in--One-green?style=flat&logo=termux
-https://img.shields.io/badge/Version-3.0-blue
-https://img.shields.io/badge/License-Educational_only-red
+
 
 Termux-এর জন্য একটি শক্তিশালী, রঙিন ও অল-ইন-ওয়ান হ্যাকিং টুলকিট – শুধুমাত্র শিক্ষাগত উদ্দেশ্যে!
 
